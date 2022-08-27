@@ -1,4 +1,4 @@
-import 'package:sisdis/i_ab/i_ab_data.dart';
+import 'package:sisdis/indices/i_ab/i_ab_data.dart';
 
 class IAB {
   final IABData iabData = IABData();

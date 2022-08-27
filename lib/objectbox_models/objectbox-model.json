@@ -1,0 +1,123 @@
+{
+  "_note1": "KEEP THIS FILE! Check it into a version control system (VCS) like git.",
+  "_note2": "ObjectBox manages crucial IDs for your object model. See docs for details.",
+  "_note3": "If you have VCS merge conflicts, you must resolve them according to ObjectBox docs.",
+  "entities": [
+    {
+      "id": "4:7832367471815511249",
+      "lastPropertyId": "17:2817212837717296133",
+      "name": "SNISModel",
+      "properties": [
+        {
+          "id": "1:1652906460493295219",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:5289614220643115223",
+          "name": "munCode",
+          "type": 9
+        },
+        {
+          "id": "3:2599355487116387305",
+          "name": "munName",
+          "type": 9
+        },
+        {
+          "id": "4:2177943295030527604",
+          "name": "munUF",
+          "type": 9
+        },
+        {
+          "id": "5:2226282181664528619",
+          "name": "year",
+          "type": 6
+        },
+        {
+          "id": "6:4795109768208946061",
+          "name": "IN021_AE",
+          "type": 8
+        },
+        {
+          "id": "7:5447049346596781667",
+          "name": "IN023_AE",
+          "type": 8
+        },
+        {
+          "id": "8:4640292956747889915",
+          "name": "IN049_AE",
+          "type": 8
+        },
+        {
+          "id": "9:6313991493414372521",
+          "name": "QD006",
+          "type": 8
+        },
+        {
+          "id": "10:1153390733434310648",
+          "name": "QD008",
+          "type": 8
+        },
+        {
+          "id": "11:7407234066980021518",
+          "name": "QD019",
+          "type": 8
+        },
+        {
+          "id": "12:1239233954321491205",
+          "name": "QD020",
+          "type": 8
+        },
+        {
+          "id": "13:2172325666699150339",
+          "name": "QD026",
+          "type": 8
+        },
+        {
+          "id": "14:4817733490533425635",
+          "name": "QD028",
+          "type": 8
+        },
+        {
+          "id": "15:354280041256037652",
+          "name": "AG006",
+          "type": 8
+        },
+        {
+          "id": "16:7727797879560155596",
+          "name": "AG012",
+          "type": 8
+        },
+        {
+          "id": "17:2817212837717296133",
+          "name": "AG024",
+          "type": 8
+        }
+      ],
+      "relations": []
+    }
+  ],
+  "lastEntityId": "4:7832367471815511249",
+  "lastIndexId": "0:0",
+  "lastRelationId": "0:0",
+  "lastSequenceId": "0:0",
+  "modelVersion": 5,
+  "modelVersionParserMinimum": 5,
+  "retiredEntityUids": [
+    2968202753325627311,
+    4611224985096040093,
+    3690312541571524416
+  ],
+  "retiredIndexUids": [],
+  "retiredPropertyUids": [
+    3677154476997386231,
+    2449355381337763488,
+    591905314168452340,
+    3409215614142870035,
+    8701902795234341301,
+    3724374658111335477
+  ],
+  "retiredRelationUids": [],
+  "version": 1
+}

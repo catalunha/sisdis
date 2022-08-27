@@ -1,4 +1,4 @@
-import 'package:sisdis/i_ab/i_ab.dart';
+import 'package:sisdis/indices/i_ab/i_ab.dart';
 
 double iISA() {
   IAB iab = IAB();

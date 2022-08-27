@@ -4,3 +4,6 @@
 
 # Conventional directory for build output.
 build/
+
+
+lib/objectbox_models/objectbox.g.dart

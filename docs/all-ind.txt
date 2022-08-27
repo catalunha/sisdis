@@ -1,0 +1,593 @@
+Código do Município
+Município
+Estado
+Ano de Referência
+G06A - População urbana residente do(s) município(s) com abastecimento de água
+G06B - População urbana residente do(s) município(s) com esgotamento sanitário
+G12A - População total residente do(s) município(s) com abastecimento de água, segundo o IBGE
+G12B - População total residente do(s) município(s) com esgotamento sanitário, segundo o IBGE
+POP_TOT - População total do município (Fonte: IBGE):
+POP_URB - População urbana do município (Fonte: IBGE)
+AG001 - População total atendida com abastecimento de água
+AG002 - Quantidade de ligações ativas de água
+AG003 - Quantidade de economias ativas de água
+AG004 - Quantidade de ligações ativas de água micromedidas
+AG005 - Extensão da rede de água
+AG006 - Volume de água produzido
+AG007 - Volume de água tratada em ETAs
+AG008 - Volume de água micromedido
+AG010 - Volume de água consumido
+AG011 - Volume de água faturado
+AG012 - Volume de água macromedido
+AG013 - Quantidade de economias residenciais ativas de água
+AG014 - Quantidade de economias ativas de água micromedidas
+AG015 - Volume de água tratada por simples desinfecção
+AG017 - Volume de água bruta exportado
+AG018 - Volume de água tratada importado
+AG019 - Volume de água tratada exportado
+AG020 - Volume micromedido nas economias residenciais ativas de água
+AG021 - Quantidade de ligações totais de água
+AG022 - Quantidade de economias residenciais ativas de água micromedidas
+AG024 - Volume de serviço
+AG026 - População urbana atendida com abastecimento de água
+AG027 - Volume de água fluoretada
+AG028 - Consumo total de energia elétrica nos sistemas de água
+ES001 - População total atendida com esgotamento sanitário
+ES002 - Quantidade de ligações ativas de esgotos
+ES003 - Quantidade de economias ativas de esgotos
+ES004 - Extensão da rede de esgotos
+ES005 - Volume de esgotos coletado
+ES006 - Volume de esgotos tratado
+ES007 - Volume de esgotos faturado
+ES008 - Quantidade de economias residenciais ativas de esgotos
+ES009 - Quantidade de ligações totais de esgotos
+ES012 - Volume de esgoto bruto exportado
+ES013 - Volume de esgotos bruto importado
+ES014 - Volume de esgoto importado tratado nas instalações do importador
+ES015 - Volume de esgoto bruto exportado tratado nas instalações do importador
+ES026 - População urbana atendida com esgotamento sanitário
+ES028 - Consumo total de energia elétrica nos sistemas de esgotos
+QD001 - Tipo de atendimento da portaria sobre qualidade da água
+QD002 - Quantidades de paralisações no sistema de distribuição de água
+QD003 - Duração das paralisações
+QD004 - Quantidade de economias ativas atingidas por paralisações
+QD006 - Quantidade de amostras para cloro residual (analisadas)
+QD007 - Quantidade de amostras para cloro residual com resultados fora do padrão
+QD008 - Quantidade de amostras para turbidez (analisadas)
+QD009 - Quantidade de amostras para turbidez fora do padrão
+QD011 - Quantidades de extravasamentos de esgotos registrados
+QD012 - Duração dos extravasamentos registrados
+QD015 - Quantidade de economias ativas atingidas por interrupções sistemáticas
+QD016 - Quantidade de amostras analisadas para aferição de coliformes fecais
+QD017 - Quantidade de amostras analisadas para aferição de coliformes fecais, com resultados fora do padrão
+QD019 - Quantidade mínima de amostras para turbidez (obrigatórias)
+QD020 - Quantidade mínima de amostras para cloro residual (obrigatórias)
+QD021 - Quantidade de interrupções sistemáticas
+QD022 - Duração das interrupções sistemáticas
+QD023 - Quantidade de reclamações ou solicitações de serviços
+QD024 - Quantidade de serviços executados
+QD025 - Tempo total de execução dos serviços
+QD026 - Quantidade de amostras para coliformes totais (analisadas)
+QD027 - Quantidade de amostras para coliformes totais com resultados fora do padrão
+QD028 - Quantidade mínima de amostras para coliformes totais (obrigatórias)
+CA003 - Quantidade de catadores com idade maior que 14 anos
+CA004 - Existem catadores de materiais recicláveis que trabalham dispersos na cidade?
+CA005 - Existem catadores organizados em Cooperativas ou Associações?
+CA006 - Quantidade de entidades associativas
+CA007 - Quantidade de associados
+CA008 - Existe algum trabalho social por parte da prefeitura direcionado aos catadores?
+CA009 - Descrição sucinta dos trabalhos (por exemplo: bolsa-escola para os filhos de catadores, programa de alfabetização de catadores etc.)
+CC010 - O serviço prestado pela Prefeitura é cobrado do usuário?
+CC011 - Valor cobrado pela coleta de RCC
+CC012 - Cobrança através de outro tipo de unidade de medida
+CC013 - Pela Prefeitura Municipal ou empresa contratada por ela
+CC014 - Por empresas especializadas (caçambeiros") ou autônomos contratados pelo gerador"
+CC015 - Pelo próprio gerador
+CC016 - Especificação do outro agente diferente dos citados
+CC017 - Há agentes autônomos que prestam serviço de coleta de RCC utilizando-se de caminhões tipo basculantes ou carroceria no município?
+CC018 - Há agentes autônomos que prestam serviço de coleta de RCC utilizando-se de carroças com tração animal ou outro tipo de veículo com pequena capacidade volumétrica no município?
+CC019 - A Prefeitura ou SLU executa usualmente a coleta diferenciada de RCC no município? (Antigo campo CO027)
+CC020 - Há empresas especializadas (caçambeiros") que prestam serviço de coleta de RCC no município? (Antigo campo CO028)"
+CO001 - Existência de trabalhadores do agente público na estrutura operacional do serviço de coleta de RDO e RPU
+CO002 - Existência de trabalhadores dos agentes privados na estrutura operacional do serviço de coleta de RDO e RPU
+CO003 - Existência de veículos do agente público utilizados especificamente para a coleta de RDO e RPU
+CO004 - Existência de veículos dos agentes privados utilizados especificamente para a coleta de RDO e RPU
+CO008 - Há serviço de coleta noturna no município?
+CO012 - Valor contratado (preço unitário) do serviço de coleta de RDO e RPU diurna, em 31/12 do ano de referência
+CO013 - Existência de outro serviço incluído no valor contratual de coleta de RDO
+CO014 - População urbana atendida com serviço de coleta de RDO
+CO019 - Os resíduos sólidos domiciliares e públicos coletados são enviados para outro município?
+CO020 - Município(s) de destino de RDO e RPU exportado
+CO021 - É utilizada balança para pesagem rotineira dos resíduos sólidos coletados?
+CO022 - Ocorrência de distância média da coleta de RDO e RPU desde o centro de massa até o descarregamento maior do que 15 km
+CO050 - População urbana atendida no município, abrangendo o distrito-sede e localidades
+CO051 - População urbana de outros municípios, atendida com serviço de coleta de RDO
+CO052 - Existência de trabalhadores de outros agentes na estrutura operacional do serviço de coleta de RDO e RPU
+CO053 - Existência de veículos de outros agentes utilizados especificamente para a coleta de RDO e RPU
+CO054 - Quantidade de caminhões compactadores com idade até 5 anos, pertencentes ao agente público executor da coleta de RDO e RPU
+CO055 - Quantidade de caminhões compactadores com idade de 6 a 10 anos, pertencentes ao agente público executor da coleta de RDO e RPU
+CO056 - Quantidade de caminhões compactadores com idade maior que 10 anos, pertencentes ao agente público executor da coleta de RDO e RPU
+CO057 - Quantidade de caminhões compactadores com idade até 5 anos, pertencentes aos agentes privados executor da coleta de RDO e RPU
+CO058 - Quantidade de caminhões compactadores com idade de 6 a 10 anos, pertencentes aos agentes privados executor da coleta de RDO e RPU
+CO059 - Quantidade de caminhões compactadores com idade maior que 10 anos, pertencentes aos agentes privados executor da coleta de RDO e RPU
+CO060 - Quantidade de caminhões compactadores com idade até 5 anos, pertencentes a outro agente executor da coleta de RDO e RPU
+CO061 - Quantidade de caminhões compactadores com idade de 6 a 10 anos, pertencentes a outro agente executor da coleta de RDO e RPU
+CO062 - Quantidade de caminhões compactadores com idade maior que 10 anos, pertencentes a outro agente executor da coleta de RDO e RPU
+CO063 - Quantidade de caminhões basculantes ou carroceira ou baús com idade até 5 anos, pertencentes ao agente público executor da coleta de RDO e RPU
+CO064 - Quantidade de caminhões basculantes ou carroceira ou baús com idade de 6 a 10 anos, pertencentes ao agente público executor da coleta de RDO e RPU
+CO065 - Quantidade de caminhões basculantes ou carroceira ou baús com idade maior que 10 anos, pertencentes ao agente público executor da coleta de RDO e RPU
+CO066 - Quantidade de caminhões basculantes ou carroceira ou baús com idade até 5 anos, pertencentes aos agentes privados executor da coleta de RDO e RPU
+CO067 - Quantidade de caminhões basculantes ou carroceira ou baús com idade de 6 a 10 anos, pertencentes aos agentes privados executor da coleta de RDO e RPU
+CO068 - Quantidade de caminhões basculantes ou carroceira ou baús com idade maior que 10 anos, pertencentes aos agentes privados executor da coleta de RDO e RPU
+CO069 - Quantidade de caminhões basculantes ou carroceira ou baús com idade até 5 anos, pertencentes a outro agente executor da coleta de RDO e RPU
+CO070 - Quantidade de caminhões basculantes ou carroceira ou baús com idade de 6 a 10 anos, pertencentes a outro agente executor da coleta de RDO e RPU
+CO071 - Quantidade de caminhões basculantes ou carroceira ou baús com idade maior que 10 anos, pertencentes a outro agente executor da coleta de RDO e RPU
+CO072 - Quantidade de caminhões tipo poliguindaste com idade até 5 anos, pertencentes ao agente público executor da coleta de RDO e RPU
+CO073 - Quantidade de caminhões tipo poliguindaste com idade de 6 a 10 anos, pertencentes ao agente público utilizados da coleta de RDO e RPU
+CO074 - Quantidade de caminhões tipo poliguindaste com idade maior que 10 anos, pertencentes ao agente público utilizados da coleta de RDO e RPU
+CO075 - Quantidade de caminhões tipo poliguindaste com idade até 5 anos, pertencentes aos agentes privados utilizados da coleta de RDO e RPU
+CO076 - Quantidade de caminhões tipo poliguindaste com idade de 6 a 10 anos, pertencentes aos agentes privados utilizados da coleta de RDO e RPU
+CO077 - Quantidade de caminhões tipo poliguindaste com idade maior que 10 anos, pertencentes aos agentes privados utilizados da coleta de RDO e RPU
+CO078 - Quantidade de caminhões tipo poliguindaste com idade até 5 anos, pertencentes ao outros agentes utilizados da coleta de RDO e RPU
+CO079 - Quantidade de caminhões tipo poliguindaste com idade de 6 a 10 anos, pertencentes ao outros agentes utilizados da coleta de RDO e RPU
+CO080 - Quantidade de caminhões tipo poliguindaste com idade maior que 10 anos, pertencentes a outros agentes utilizados da coleta de RDO e RPU
+CO081 - Quantidade de tratores agrícolas com reboque com idade até 5 anos pertencente ao agente público executor da coleta de RDO e RPU
+CO082 - Quantidade de tratores agrícolas com reboque com idade de 6 a 10 anos pertencente ao agente público executor da coleta de RDO e RPU
+CO083 - Quantidade de tratores agrícolas com reboque com idade maior que 10 anos pertencente ao agente público executor da coleta de RDO e RPU
+CO084 - Quantidade de tratores agrícolas com reboque com idade até 5 anos pertencente ao agente privado executor da coleta de RDO e RPU
+CO085 - Quantidade de tratores agrícolas com reboque com idade de 6 a 10 anos pertencente ao agente privado executor da coleta de RDO e RPU
+CO086 - Quantidade de tratores agrícolas com reboque com idade maior que 10 anos pertencente ao agente privado executor da coleta de RDO e RPU
+CO087 - Quantidade de tratores agrícolas com reboque com idade até 5 anos pertencente a outro agente executor da coleta de RDO e RPU
+CO088 - Quantidade de tratores agrícolas com reboque com idade de 6 a 10 anos pertencente a outro agente executor da coleta de RDO e RPU
+CO089 - Quantidade de tratores agrícolas com reboque com idade maior que 10 anos pertencente a outro agente executor da coleta de RDO e RPU
+CO090 - Quantidade de veículos de tração animal (carroça) com idade até 5 anos pertencente ao agente público executor da coleta de RDO e RPU
+CO091 - Quantidade de veículos de tração animal (carroça) com idade de 6 a 10 anos pertencente ao agente público executor da coleta de RDO e RPU
+CO092 - Quantidade de veículos de tração animal (carroça) com idade maior que 10 anos pertencente ao agente público executor da coleta de RDO e RPU
+CO093 - Quantidade de veículos de tração animal (carroça) com idade até 5 anos pertencente ao agente privado executor da coleta de RDO e RPU
+CO094 - Quantidade de veículos de tração animal (carroça) com idade de 6 a 10 anos pertencente ao agente privado executor da coleta de RDO e RPU
+CO095 - Quantidade de veículos de tração animal (carroça) com idade maior que 10 anos pertencente ao agente privado executor da coleta de RDO e RPU
+CO096 - Quantidade de veículos de tração animal (carroça) com idade até 5 anos pertencente a outro agente executor da coleta de RDO e RPU
+CO097 - Quantidade de veículos de tração animal (carroça) com idade de 6 a 10 anos pertencente a outro agente executor da coleta de RDO e RPU
+CO098 - Quantidade de veículos de tração animal (carroça) com idade maior que 10 anos pertencente a outro agente executor da coleta de RDO e RPU
+CO099 - Quantidade de outros tipos de veículos com idade até 5 anos pertencente ao agente público executor da coleta de RDO e RPU
+CO100 - Quantidade de outros tipos de veículos com idade de 6 a 10 anos pertencente ao agente público executor da coleta de RDO e RPU
+CO101 - Quantidade de outros tipos de veículos com idade maior que 10 anos pertencente ao agente público executor da coleta de RDO e RPU
+CO102 - Quantidade de outros tipos de veículos com idade até 5 anos pertencente ao agente privado executor da coleta de RDO e RPU
+CO103 - Quantidade de outros tipos de veículos com idade de 6 a 10 anos pertencente ao agente privado executor da coleta de RDO e RPU
+CO104 - Quantidade de outros tipos de veículos com idade maior que 10 anos pertencente ao agente privado executor da coleta de RDO e RPU
+CO105 - Quantidade de outros tipos de veículos com idade até 5 anos pertencente a outro agente executor da coleta de RDO e RPU
+CO106 - Quantidade de outros tipos de veículos com idade de 6 a 10 anos pertencente a outro agente executor da coleta de RDO e RPU
+CO107 - Quantidade de outros tipos de veículos com idade maior que 10 anos pertencente a outro agente executor da coleta de RDO e RPU
+CO108 - Quantidade de RDO coletada pelo agente público
+CO109 - Quantidade de RDO coletada pelos agentes privados
+CO110 - Quantidade de resíduos sólidos domiciliares coletada por outro(s) agente(s) executor(es)
+CO111 - Quantidade total de RDO coletada por todos os agentes
+CO112 - Quantidade de RPU coletada pelo agente público
+CO113 - Quantidade de RPU coletada pelos agentes privados
+CO114 - Quantidade de resíduos sólidos públicos coletada por outro(s) agente(s) executor(es)
+CO115 - Quantidade total de RPU coletada por todos os agentes executores
+CO116 - Quantidade de RDO e RPU coletada pelo agente público
+CO117 - Quantidade de RDO e RPU coletada pelos agentes privados
+CO118 - Quantidade de resíduos sólidos domiciliares e públicos coletada por outro(s) agente(s)
+CO119 - Quantidade total de RDO e RPU coletada por todos os agentes
+CO120 - Ocorrência de coleta de resíduos sólidos em aeronaves, feita pelo agente público
+CO121 - Ocorrência de coleta de resíduos sólidos de aeronaves em separado, feito pelo agente público
+CO122 - Disposição de resíduos sólidos coletados em aeronaves
+CO123 - Quantidade de resíduos sólidos coletados em aeronaves
+CO124 - Outras formas de disposição de resíduos sólidos coletados em aeronaves
+CO125 - Ocorrência da coleta de resíduos sólidos em embarcações, feita pelo agente público
+CO126 - Ocorrência de coleta de resíduos sólidos de embarcações em separado, feito pelo agente público
+CO127 - Disposição de resíduos sólidos coletados em embarcações
+CO128 - Quantidade de resíduos sólidos coletados em embarcações
+CO129 - Outras formas de disposição de resíduos sólidos coletados em embarcações
+CO130 - Especificação de outro tipo de serviço incluído no valor unitário citado
+CO131 - Há execução de coleta com elevação de contêineres por caminhão compactador (coleta conteinerizada), mesmo implantada em caráter de experiência?
+CO133 - Despesas com outro(s) agente(s) público(s) com o serviço de coleta de RDO e RPU no município
+CO134 - Percentual da população atendida com frequência diária
+CO135 - Percentual da população atendida com frequência de 2 ou 3 vezes por semana
+CO136 - Percentual da população atendida com frequência de 1 vez por semana
+CO137 - 'especificação de outros agentes dos quais incide pessoal no serviço de coleta de RDO e RPU
+CO138 - 'especificação de outros agentes dos quais incidem veículos no serviço de coleta de RDO e RPU
+CO139 - Distância média da coleta de RDO e RPU desde o centro de massa até o descarregamento
+CO140 - Quantidade de RDO coletada por outros agentes executores, exceto coop. ou associações de catadores
+CO141 - Quantidade de RPU coletada por outros agentes executores, exceto coop. ou associações de catadores
+CO142 - Quantidade de RDO e RPU coletada por outros agentes executores
+CO143 - Quantidade de RDO coletada por cooperativas ou associações de catadores que tenham parceria com a prefeitura
+CO144 - Quantidade de RPU coletada por cooperativas ou associações de catadores que tenham parceria com a prefeitura
+CO145 - Quantidade de RDO e RPU coletada por cooperativas ou associações de catadores que tenham parceria com a prefeitura
+CO146 - Valor contratual (preço unitário) do serviço de transporte de RDO e RPU da unidade de transbordo (ou ponto correspondente admitido como tal) até o aterro, lixão, incinerador ou outra unidade de destinação final
+CO147 - População rural do município atendida com serviço de coleta de RDO
+CO148 - No preço acima está incluído o transporte de RDO e RPU coletados até o aterro, lixão, incinerador ou outra unidade de destinação final?
+CO149 - A distância média do centro de massa à unidade de destinação final de RDO e RPU coletados é superior a 15Km?
+CO150 - Especifique a distância do centro de massa à unidade destinação final quando maior do que 15Km (referente somente à distância de ida)
+CO151 - A distância média de transporte à unidade de destinação final de RDO e RPU coletados é superior a 15Km?
+CO152 - Especifique a distância de transporte à unidade de destinação final quando maior que 15Km (referente somente à distância de ida)
+CO154 - Os resíduos sólidos públicos (RPU) são recolhidos junto com os resíduos sólidos domiciliares (RDO)?
+CO155 - Quantidade de veículos aquáticos com idade até 5 anos pertencente ao agente público executor da coleta de RDO e RPU
+CO156 - Quantidade de veículos aquáticos com idade de 6 a 10 anos pertencente ao agente público executor da coleta de RDO e RPU
+CO157 - Quantidade de veículos aquáticos com idade maior que 10 anos pertencente ao agente público executor da coleta de RDO e RPU
+CO158 - Quantidade de veículos aquáticos com idade até 5 anos pertencentes aos agentes privados executores da coleta de RDO e RPU
+CO159 - Quantidade de veículos aquáticos com idade de 6 a 10 anos pertencentes aos agentes privados executores da coleta de RDO e RPU
+CO160 - Quantidade de veículos aquáticos com idade maior que 10 anos pertencentes aos agentes privados executores da coleta de RDO e RPU
+CO161 - A operação de destinação final de RDO e RPU em aterro ou lixão é terceirizada ou concedida? Observação importante: Não se trata de terceirização somente de máquinas ou equipamentos. (Antigo campo UP060)
+CO162 - Valor contratual (preço unitário) do serviço de aterramento de RDO e RPU (Antigo campo UP014)
+CO163 - Outros veículos utilizados na coleta domiciliar (especificar)
+CO164 - População total atendida no município
+CO165 - População urbana atendida pelo serviço de coleta domiciliar direta, ou seja, porta a porta
+CO170 - Quantidade total de veículos de tração animal no município (Prefeitura ou SLU)
+CO171 - Quantidade total de veículos de tração animal no município (Empresas contratadas)
+CO172 - Quantidade total de veículos aquáticos (embarcações) no município (Prefeitura ou SLU)
+CO173 - Quantidade total de veículos aquáticos (embarcações) no município (Empresas contratadas)
+CO174 - Quantidade total de motos c/carretinha adaptada à coleta em áreas de difícil acesso no município (Prefeitura ou SLU)
+CO175 - Quantidade total de motos c/carretinha adaptada à coleta em áreas de difícil acesso no município (Empresas contratadas)
+CP001 - Existiu o serviço de capina e roçada no município?
+CP002 - Manual
+CP003 - Mecanizada
+CP004 - Química
+CS001 - Existe coleta seletiva no município?
+CS002 - Execução da coleta seletiva pelo agente público
+CS009 - Quantidade total de materiais recicláveis recuperados
+CS010 - Quantidade de Papel e papelão recicláveis recuperados
+CS011 - Quantidade de Plásticos recicláveis recuperados
+CS012 - Quantidade de Metais recicláveis recuperados
+CS013 - Quantidade de Vidros recicláveis recuperados
+CS014 - Quantidade de Outros materiais recicláveis recuperados (exceto pneus e eletrônicos)
+CS022 - Ocorrência de pesagem dos resíduos recolhidos pela coleta seletiva
+CS023 - Quantidade recolhida na coleta seletiva executada pela Prefeitura ou SLU
+CS024 - Qtd. recolhida na coleta seletiva executada por empresa(s) contratada(s) pela Prefeitura ou SLU
+CS025 - Qtd. recolhida na coleta seletiva por outros agentes que detenham parceria COM a Prefeitura
+CS026 - Qtd. total recolhida pelos 4 agentes executores da coleta seletiva acima mencionados
+CS027 - Ocorrência de coleta seletiva porta a porta executada pelo agente público ou empresa contratada
+CS028 - Ocorrência de coleta seletiva porta a porta executada por sucateiros, aparistas ou empresas do ramo
+CS029 - Execução de coleta seletiva porta a porta por organizações de catadores
+CS030 - Execução de coleta seletiva porta a porta por outros agentes
+CS031 - Ocorrência de coleta seletiva em postos de entrega voluntária executada pelo agente público ou empresa contratada
+CS032 - Ocorrência de coleta seletiva em postos de entrega voluntária executada por sucateiros ou empresas do ramo
+CS033 - Execução de coleta seletiva em postos de entrega voluntária feita por organização(ões) de catadores
+CS034 - Execução de coleta seletiva em postos de entrega voluntária feita por outros agentes
+CS035 - Ocorrência de coleta seletiva executada de outra forma ou sistema pelo agente público ou empresa contratada
+CS036 - Ocorrência de coleta seletiva executada de outra forma ou sistema por sucateiros ou empresas do ramo
+CS037 - Coleta seletiva executada de forma diferente das anteriores feita por organização de catadores
+CS038 - Coleta seletiva executada de forma diferente das anteriores feita por outros agentes
+CS039 - Execução de coleta seletiva porta a porta por sucateiros, aparista ou fero-velho
+CS040 - Execução de coleta seletiva em postos de entrega voluntária feita por sucateiros, aparista ou fero-velho
+CS041 - Coleta seletiva executada de forma diferente das anteriores feita por sucateiros, aparista ou fero-velho
+CS042 - Ocorrência de coleta seletiva porta a porta executada por organizações de catadores com parceria ou apoio do agente público
+CS043 - Ocorrência de coleta seletiva em postos de entrega voluntária executada por organizações de catadores com parceria ou apoio do agente público
+CS044 - Ocorrência de coleta seletiva executada de outra forma por organizações de catadores com parceria ou apoio do agente público
+CS045 - Ocorrência de coleta seletiva porta a porta executada por organizações de catadores sem parceria ou apoio do agente público
+CS046 - Ocorrência de coleta seletiva em postos de entrega voluntária executada por organizações de catadores sem parceria ou apoio do agente público
+CS047 - Ocorrência de coleta seletiva executada de outra forma por organizações de catadores sem parceria ou apoio do agente público
+CS048 - Qtd. recolhida na coleta seletiva executada por associações ou cooperativas de catadores COM parceria/apoio da Prefeitura?
+CS049 - Especificação de outro(s) agente(s) que executa(m) a coleta seletiva e que detenham parceria com a prefeitura
+CS050 - População urbana do município atendida com a coleta seletiva do tipo porta a porta executada pela Prefeitura (ou SLU)
+CS053 - Há empresas contratadas para a prestação do serviço de coleta seletiva porta a porta?
+CS054 - Valor contratual (preço unitário) do serviço de coleta seletiva porta a porta (em 31/12 do ano de referência) contratado às empresas. Se houver mais de um preço para este serviço, preencher com o valor médio
+CS055 - No preço unitário acima preenchido está incluído o valor do serviço de triagem dos materiais recicláveis?
+CS056 - Valor contratual (preço unitário) do serviço de triagem de materiais recicláveis (em 31/12 no ano de referência) contratado às empresas. Se houver mais de um preço para este serviço, preencher com o valor médio
+CS057 - Há associações ou cooperativas de catadores contratadas para a prestação do serviço de coleta seletiva porta a porta?
+CS058 - Valor contratual (preço unitário) do serviço de coleta seletiva porta a porta (em 31/12 no ano de referência) contratado às associações/cooperativas de catadores. Se houver mais de um preço para este serviço, preencher com o valor médio
+CS059 - No preço unitário acima preenchido está incluído o valor do serviço de triagem dos materiais recicláveis?
+CS060 - Valor contratual (preço unitário) do serviço de triagem de materiais recicláveis (em 31/12 do ano de referência) contratado às associações de catadores. Se houver mais de um preço para este serviço, preencher com o valor médio
+FN201 - A Prefeitura (Prestadora) cobra pelos serviços de coleta regular, transporte e destinação final de RSU (Antigo campo GE012)
+FN202 - Principal forma adotada (Antigo campo GE013)
+FN203 - Descrição da outra forma adotada (Antigo campo DESC_OUT_FORM_COBR)
+FN204 - Unidade adotada para a cobrança (no caso de tarifa)
+FN205 - A prefeitura cobra pela prestação de serviços especiais ou eventuais de manejo de RSU? (Antigo campo GE014)
+FN206 - Despesas dos agentes públicos com o serviço de coleta de RDO e RPU (Antigo campo CO132)
+FN207 - Despesa com agentes privados para execução do serviço de coleta de RDO e RPU (Antigo campo CO011)
+FN208 - Despesa total com o serviço de coleta de RDO e RPU (Antigo campo CO009)
+FN209 - Despesa com agentes públicos com a coleta de RSS (Antigo campo RS032)
+FN210 - Despesa com empresas contratadas para coleta de RSS (Antigo campo RS033)
+FN211 - Despesa total com a coleta de RSS (Antigo campo RS035)
+FN212 - Despesa dos agentes públicos com o serviço de varrição (Antigo campo VA037)
+FN213 - Despesa com empresas contratadas para o serviço de varrição (Antigo campo VA019)
+FN214 - Despesa total com o serviço de varrição (Antigo campo VA017)
+FN215 - Despesa com agentes públicos executores dos demais serviços quando não especificados em campos próprios (Antigo campo GE043)
+FN216 - Despesa com agentes privados executores dos demais serviços quando não especificados em campos próprios (Antigo campo GE044)
+FN217 - Despesa total com todos os agentes executores dos demais serviços quando não especificados em campos próprios (Antigo campo GE046)
+FN218 - Despesa dos agentes públicos executores de serviços de manejo de RSU (Antigo campo GE023)
+FN219 - Despesa com agentes privados executores de serviços de manejo de RSU (Antigo campo GE009)
+FN220 - Despesa total com serviços de manejo de RSU (Antigo campo GE007)
+FN221 - Receita orçada com a cobrança de taxas e tarifas referentes à gestão e manejo de RSU (Antigo campo GE005)
+FN222 - Receita arrecadada com taxas e tarifas referentes à gestão e manejo de RSU (Antigo campo GE006)
+FN223 - Despesa Corrente da Prefeitura durante o ano com TODOS os serviços do município (saúde, educação, pagamento de pessoal, etc.). (Antigo campo GE010)
+FN224 - A Prefeitura recebeu algum recurso federal para aplicação no setor de manejo de RSU? (Antigo campo GE025)
+FN225 - Valor repassado (Antigo campo GE026)
+FN226 - Tipo de recurso (Antigo campo GE028)
+FN227 - Em que foi aplicado o recurso (Antigo campo GE029)
+OS001 - Execução de lavação de vias e praças pelo agente público
+OS003 - Execução de limpeza de feiras livres ou mercados pelo agente público
+OS004 - Execução de limpeza de praias pelo agente público
+OS005 - Execução de limpeza de bocas-de-lobo pelo agente público
+OS006 - Execução de pintura de meios-fios pelo agente público
+OS007 - Execução de limpeza de lotes vagos pelo agente público
+OS008 - Execução de remoção de animais mortos de vias publicas pelo agente público
+OS009 - Execução de coleta diferenciada de pneus velhos pelo agente público
+OS010 - Execução de diferenciada de pilhas e baterias pelo agente público
+OS011 - Execução de coleta de resíduos volumosos inservíveis de pelo agente público
+OS012 - Execução de lavação de vias e praças por empresas contratadas
+OS014 - Execução de limpeza de feiras livres ou mercados por empresas contratadas
+OS015 - Execução de limpeza de praias por empresas contratadas
+OS016 - Execução de limpeza de bocas-de-lobo por empresas contratadas
+OS017 - Execução de pintura de meios-fios por empresas contratadas
+OS018 - Execução de limpeza de lotes vagos por empresas contratadas
+OS019 - Execução de remoção de animais mortos de vias públicas por empresas contratadas
+OS020 - Execução de coleta diferenciada de pneus velhos por empresas contratadas
+OS021 - Execução de coleta diferenciada de pilhas e baterias por empresas contratadas
+OS022 - Execução de coleta de resíduos volumosos inservíveis por empresas contratadas
+OS023 - Execução de lavação de vias e praças por outros agentes diferentes dos citados
+OS025 - Execução de limpeza de feiras livres ou mercados por outros agentes diferentes dos citados
+OS026 - Execução de limpeza de praias por outros agentes diferentes dos citados
+OS027 - Execução de limpeza de bocas-de-lobo por outros agentes diferentes dos citados
+OS028 - Execução de pintura de meios-fios por outros agentes diferentes dos citados
+OS029 - Execução de limpeza de lotes vagos por outros agentes diferentes dos citados
+OS030 - Execução de remoção de animais mortos de vias públicas por outros agentes diferentes dos citados
+OS031 - Execução de coleta diferenciada de pneus velhos por outros agentes diferentes dos citados
+OS032 - Execução de coleta diferenciada de pilhas e baterias por outros agentes diferentes dos citados
+OS033 - Execução de coleta de resíduos volumosos inservíveis por outros agentes diferentes dos citados
+OS040 - Execução de poda de árvores pelo agente público
+OS041 - Execução de poda de árvores por empresas contratadas
+OS042 - Execução de poda de árvores por outros agentes diferentes dos citados
+OS043 - Execução de outros serviços diferentes dos citados pelo agente público
+OS044 - Execução de outros serviços diferentes dos citados por empresas contratadas
+OS045 - Execução de outros serviços diferentes dos citados por outros agentes
+OS046 - Outros executores(especificar)
+OS047 - Execução de coleta diferenciada de lâmpadas fluorescentes pelo agente público
+OS048 - Execução de coleta diferenciada de lâmpadas fluorescentes por empresas contratadas
+OS049 - Execução de coleta diferenciada de lâmpadas fluorescentes por outros agentes diferentes dos citados
+OS050 - Execução de coleta diferenciada de resíduos eletrônicos pelo agente público
+OS051 - Execução de coleta diferenciada de resíduos eletrônicos por empresas contratadas
+OS052 - Execução de coleta diferenciada de resíduos eletrônicos por outros agentes diferentes dos citados
+OS053 - Outros (especificar)
+PO001 - O município possui Política de Saneamento Básico Conforme a Lei 11.445/2007?
+PO002 - Quando foi aprovada?
+PO004 - Abastecimento de água
+PO005 - Esgotamento sanitário
+PO006 - Limpeza pública e manejo de resíduos sólidos
+PO007 - Drenagem urbana e manejo de águas pluviais
+PO008 - Abastecimento de água
+PO009 - Nome do órgão
+PO010 - Esgotamento sanitário
+PO011 - Nome do órgão
+PO012 - Limpeza pública e manejo de resíduos sólidos
+PO013 - Nome do Órgão
+PO014 - Drenagem urbana e manejo de águas pluviais
+PO015 - Nome do órgão
+PO016 - O município adotou parâmetros para a garantia essencial à saúde pública?
+PO017 - Abastecimento de água
+PO018 - Esgotamento sanitário
+PO019 - Limpeza pública e manejo de resíduos sólidos
+PO020 - Drenagem urbana e manejo de águas pluviais
+PO021 - O município definiu mecanismos de participação e controle social?
+PO022 - Conselho ou órgão colegiado
+PO023 - Conferência
+PO024 - Audiência pública
+PO025 - Outros
+PO026 - O município fixou os direitos e deveres dos usuários
+PO027 - O município implementou o sistema de informação municipal de saneamento?
+PO028 - O município possui plano municipal de saneamento básico, elaborado nos termos estabelecidos na Lei 11.445/2007?
+PO029 - Quando foi aprovado?
+PO031 - Qual a vigência do plano?
+PO033 - Qual a forma de aprovação do plano?
+PO034 - Abastecimento de água
+PO035 - Esgotamento sanitário
+PO036 - Limpeza pública e manejo de resíduos sólidos
+PO037 - Drenagem urbana e manejo de águas pluviais
+PO038 - As metas do plano para o abastecimento de água estão sendo alcançadas?
+PO039 - As metas do plano para o esgotamento sanitário estão sendo alcançadas?
+PO040 - As metas do plano para os resíduos sólidos estão sendo alcançadas?
+PO041 - As metas do plano para drenagem de águas pluviais estão sendo alcançadas?
+PO042 - O município é integrante de algum CONSÓRCIO INTERMUNICIPAL regulamentado pela Lei nº 11.107/2005 que tenha entre suas atribuições específicas a gestão ou prestação de um ou mais serviços de manejo de RSU (serviços de coleta de resíduos domiciliares ou públicos, operações de aterro sanitário etc.)
+PO043 - Nome do CONSÓRCIO INTERMUNICIPAL
+PO044 - Qual o ano de adesão do município ao referido consórcio intermunicipal?
+PO045 - Informe o nº/ano da Lei Municipal que autoriza o município a constituir o referido CONSÓRCIO INTERMUNICIPAL
+PO046 - Quais os demais municípios integrantes do CONSÓRCIO INTERMUNICIPAL? (Antigo campo PM046)
+PO047 - Quais as modalidades ou tipos de serviços de manejo de RSU (limpeza urbana) são prestados pelo CONSÓRCIO INTERMUNICIPAL
+PO048 - O Município possui Plano Municipal de Gestão Integrada de Resíduos Sólidos (PMGIRS) conforme a Lei nº 12.305/2010 que trata da Política Nacional de Resíduos Sólidos?
+PO049 - Quando foi aprovado?
+PO050 - O Plano de Gestão de Resíduos Sólidos referido anteriormente é individualizado (somente para o município) ou é intermunicipal (regional) contemplando também outros municípios? ATENÇÃO: Não considerar o Plano Estadual como resposta!!!
+PO051 - Quais os demais municípios abrangidos pelo Plano de Gestão [Regional]?
+RS003 - O próprio gerador ou empresa contratada por ele
+RS004 - A coleta diferenciada realizada pela Prefeitura é cobrada separadamente?
+RS008 - Próprio gerador ou empresa contratada por ele
+RS009 - Quantidade de RSS coletada por 'outros executores' da coleta diferenciada de RSS
+RS020 - Existe no município a coleta diferenciada de resíduos sólidos dos serviços de saúde executada pela Prefeitura, pelo próprio gerador ou por empresas contratadas por eles?
+RS021 - Existência de coleta diferenciada de RSS executada pela prefeitura ou empresas contratadas por ela
+RS022 - Existência de coleta diferenciada de RSS executada por outros agentes
+RS023 - Especificação de outros agentes executores da coleta diferenciada de RSS
+RS024 - Existência de outra forma de coleta diferenciada de RSS
+RS025 - Valor cobrado pela prefeitura para prestação da coleta de RSS
+RS026 - A prefeitura exerce algum tipo de controle sobre os executores (externos)?
+RS027 - Especifique, sucintamente, qual tipo de controle
+RS028 - Prefeitura ou empresa contratada por ela
+RS030 - O município envia RSS coletados para outro município?
+RS031 - Municípios para onde são remetidos os RSS
+RS034 - Despesas com outro(s) agente(s) executor(es) da coleta de resíduos dos serviços de saúde
+RS036 - Em veículo destinado à coleta domiciliar, porém em viagem exclusiva
+RS038 - Em veículo exclusivo
+RS039 - Especificação de outras formas de coleta diferenciada de RSS
+RS040 - No caso dos RSS dos serviços públicos de saúde, o serviço de coleta diferenciada destes resíduos é executado por empresa(s) contratada(s)?
+RS041 - Valor contratual (preço unitário) do serviço de coleta diferenciada dos RSS (em 31/12 no ano de referência)
+RS042 - No preço acima está incluso algum tipo de tratamento para os RSS coletados?
+RS043 - Valor contratual (preço unitário) do serviço de tratamento dos RSS (em 31/12 no ano de referência)
+RS044 - Quantidade total de RSS coletada pelos agentes executores
+RS045 - Prefeitura ou SLU
+RS046 - Empresa contratada pela Prefeitura ou pelo SLU
+TB001 - Quantidade de coletadores e motoristas de agentes públicos, alocados no serviço de coleta de RDO e RPU (Antigo campo CO029)
+TB002 - Quantidade de coletadores e motoristas de agentes privados, alocados no serviço de coleta de RDO e RPU (Antigo campo CO030)
+TB003 - Quantidade de varredores dos agentes públicos, alocados no serviço de varrição (Antigo campo VA007)
+TB004 - Quantidade de varredores de agentes privados, alocados no serviço de varrição (Antigo campo VA008)
+TB005 - Quantidade de empregados dos agentes públicos envolvidos com os serviços de capina e roçada (Antigo campo CP005)
+TB006 - Quantidade de empregados dos agentes privados envolvidos com os serviços de capina e roçada (Antigo campo CP006)
+TB007 - Quantidade de trabalhadores dos agentes públicos alocados em serviços das unidades de processamento (Antigo campo UP062)
+TB008 - Quantidade de empregados dos agentes privados (Antigo campo UP063)
+TB009 - Quantidade de empregados dos agentes públicos envolvidos nos demais serviços de manejo de RSU quando não especificados em campos próprios (Antigo campo GE047)
+TB010 - Quantidade de empregados dos agentes privados envolvidos nos demais serviços de manejo de RSU quando não especificados em campos próprios (Antigo campo GE048)
+TB011 - Quantidade de empregados administrativos dos agentes públicos (Antigo campo GE050)
+TB012 - Quantidade de empregados administrativos dos agentes privados (Antigo campo GE051)
+TB013 - Quantidade de trabalhadores de agentes públicos envolvidos nos serviços de manejo de RSU (Antigo campo GE015)
+TB014 - Quantidade de trabalhadores de agentes privados envolvidos nos serviços de manejo de RSU (Antigo campo GE016)
+TB015 - Quantidade total de trabalhadores remunerados envolvidos nos serviços de manejo de RSU (Antigo campo GE058)
+TB016 - Existência de frente de trabalho temporária (Antigo campo GE053)
+TB017 - Quantidade de empregados temporários da frente '1' (Antigo campo GE030)
+TB018 - Quantidade de empregados temporários da frente '2' (Antigo campo GE034)
+TB019 - Quantidade de empregados temporários da frente de trabalho '3' (Antigo campo GE038)
+TB020 - Duração da frente de trabalho '1' (Antigo campo GE031)
+TB021 - Duração da frente de trabalho '2' (Antigo campo GE035)
+TB022 - Duração da frente de trabalho '3' (Antigo campo GE040)
+TB023 - Atuação da frente de trabalho '1' em mais de um tipo de serviço (Antigo campo GE032)
+TB024 - Atuação da frente de trabalho '2' em mais de um tipo de serviço (Antigo campo GE036)
+TB025 - Atuação da frente de trabalho '3' em mais de um tipo de serviço (Antigo campo GE041)
+TB026 - Tipo de serviço predominante da frente de trabalho '1' (Antigo campo GE033)
+TB027 - Tipo de serviço predominante da frente de trabalho '2' (Antigo campo GE037)
+TB028 - Tipo de serviço predominante da frente de trabalho '3' (Antigo campo GE042)
+TB029 - Quantidade de coletadores e motoristas de outros agentes, alocados no serviço de coleta de RDO e RPU (Antigo campo CO031)
+TB030 - Quantidade de varredores de outros agentes, alocados no serviço de varrição (Antigo campo VA009)
+TB031 - Quantidade de empregados dos outros agentes envolvidos com os serviços de capina e roçada (Antigo campo CP008)
+TB032 - Quantidade de empregados de outros agentes (Antigo campo UP064)
+TB033 - Quantidade de empregados de outros agentes envolvidos nos demais serviços de manejo de RSU quando não especificados em campos próprios (Antigo campo GE049)
+TB034 - Quantidade de empregados administrativos de outros agentes (Antigo campo GE052)
+TB035 - Quantidade total de empregados de outros agentes envolvidos nos serviços de manejo de RSU (Antigo campo GE017)
+VA001 - Existência de estrutura operacional do serviço de varrição composta por pessoal dos agentes públicos
+VA002 - Existência de estrutura operacional do serviço de varrição composta por pessoal dos agentes privados
+VA003 - Existência de estrutura operacional do serviço de varrição composta por veículos dos agentes públicos
+VA004 - Existência de estrutura operacional do serviço de varrição composta por veículos dos agentes privados
+VA010 - Pela prefeitura municipal (Km varridos)
+VA011 - Por empresas contratadas (Km varridos)
+VA012 - Extensão de sarjeta varrida por outros agentes
+VA016 - Há algum tipo de varrição mecanizada no município?
+VA020 - Valor contratual (preço unitário) do serviço de varrição manual
+VA021 - Existência de recolhimento dos resíduos do serviço de varrição incluído no valor contratual do serviço
+VA030 - Existência de estrutura operacional do serviço de varrição composta por pessoal de outros agentes
+VA031 - Especificação dos outros agentes dos quais incide pessoal no serviço de varrição
+VA032 - Existência de estrutura operacional do serviço de varrição composta por veículos de outros agentes
+VA033 - 'especificação dos outros agentes dos quais incidem veículos no serviço de varrição
+VA034 - 'especificação dos outros agentes aos quais se referem a extensão de sarjeta varrida
+VA035 - Quais tipos de equipamentos são utilizados
+VA036 - Local ou circunstância da varrição mecanizada
+VA038 - Despesas com outro(s) agente(s) público(s) com o serviço de coleta de RDO e RPU no município
+VA039 - Extensão total de sarjetas varridas pelos executores (Km varridos)
+IN001_AE - Densidade de economias de água por ligação
+IN002_AE - Índice de produtividade: economias ativas por pessoal próprio
+IN003_AE - Despesa total com os serviços por m3 faturado
+IN004_AE - Tarifa média praticada
+IN005_AE - Tarifa média de água
+IN006_AE - Tarifa média de esgoto
+IN007_AE - Incidência da desp. de pessoal e de serv. de terc. nas despesas totais com os serviços
+IN008_AE - Despesa média anual por empregado
+IN009_AE - Índice de hidrometração
+IN010_AE - Índice de micromedição relativo ao volume disponibilizado
+IN011_AE - Índice de macromedição
+IN012_AE - Indicador de desempenho financeiro
+IN013_AE - Índice de perdas faturamento
+IN014_AE - Consumo micromedido por economia
+IN015_AE - Índice de coleta de esgoto
+IN016_AE - Índice de tratamento de esgoto
+IN017_AE - Consumo de água faturado por economia
+IN018_AE - Quantidade equivalente de pessoal total
+IN019_AE - Índice de produtividade: economias ativas por pessoal total (equivalente)
+IN020_AE - Extensão da rede de água por ligação
+IN021_AE - Extensão da rede de esgoto por ligação
+IN022_AE - Consumo médio percapita de água
+IN023_AE - Índice de atendimento urbano de água
+IN024_AE - Índice de atendimento urbano de esgoto referido aos municípios atendidos com água
+IN025_AE - Volume de água disponibilizado por economia
+IN026_AE - Despesa de exploração por m3 faturado
+IN027_AE - Despesa de exploração por economia
+IN028_AE - Índice de faturamento de água
+IN029_AE - Índice de evasão de receitas
+IN030_AE - Margem da despesa de exploração
+IN031_AE - Margem da despesa com pessoal próprio
+IN032_AE - Margem da despesa com pessoal total (equivalente)
+IN033_AE - Margem do serviço da divida
+IN034_AE - Margem das outras despesas de exploração
+IN035_AE - Participação da despesa com pessoal próprio nas despesas de exploração
+IN036_AE - Participação da despesa com pessoal total (equivalente) nas despesas de exploração
+IN037_AE - Participação da despesa com energia elétrica nas despesas de exploração
+IN038_AE - Participação da despesa com produtos químicos nas despesas de exploração (DEX)
+IN039_AE - Participação das outras despesas nas despesas de exploração
+IN040_AE - Participação da receita operacional direta de água na receita operacional total
+IN041_AE - Participação da receita operacional direta de esgoto na receita operacional total
+IN042_AE - Participação da receita operacional indireta na receita operacional total
+IN043_AE - Participação das economias residenciais de água no total das economias de água
+IN044_AE - Índice de micromedição relativo ao consumo
+IN045_AE - Índice de produtividade: empregados próprios por 1000 ligações de água
+IN046_AE - Índice de esgoto tratado referido à água consumida
+IN047_AE - Índice de atendimento urbano de esgoto referido aos municípios atendidos com esgoto
+IN048_AE - Índice de produtividade: empregados próprios por 1000 ligações de água + esgoto
+IN049_AE - Índice de perdas na distribuição
+IN050_AE - Índice bruto de perdas lineares
+IN051_AE - Índice de perdas por ligação
+IN052_AE - Índice de consumo de água
+IN053_AE - Consumo médio de água por economia
+IN054_AE - Dias de faturamento comprometidos com contas a receber
+IN055_AE - Índice de atendimento total de água
+IN056_AE - Índice de atendimento total de esgoto referido aos municípios atendidos com água
+IN057_AE - Índice de fluoretação de água
+IN058_AE - Índice de consumo de energia elétrica em sistemas de abastecimento de água
+IN059_AE - Índice de consumo de energia elétrica em sistemas de esgotamento sanitário
+IN060_AE - Índice de despesas por consumo de energia elétrica nos sistemas de água e esgotos
+IN071_AE - Economias atingidas por paralisações
+IN072_AE - Duração média das paralisações
+IN073_AE - Economias atingidas por intermitências
+IN074_AE - Duração média das intermitências
+IN075_AE - Incidência das análises de cloro residual fora do padrão
+IN076_AE - Incidência das análises de turbidez fora do padrão
+IN077_AE - Duração média dos reparos de extravasamentos de esgotos
+IN079_AE - Índice de conformidade da quantidade de amostras - cloro residual
+IN080_AE - Índice de conformidade da quantidade de amostras - turbidez
+IN082_AE - Extravasamentos de esgotos por extensão de rede
+IN083_AE - Duração média dos serviços executados
+IN084_AE - Incidência das análises de coliformes totais fora do padrão
+IN085_AE - Índice de conformidade da quantidade de amostras - coliformes totais
+IN101_AE - Índice de suficiência de caixa
+IN102_AE - Índice de produtividade de pessoal total (equivalente)
+IN001_RS - Taxa de empregados em relação à população urbana
+IN002_RS - Despesa média por empregado alocado nos serviços do manejo de rsu
+IN003_RS - Incidência das despesas com o manejo de rsu nas despesas correntes da prefeitura
+IN004_RS - Incidência das despesas com empresas contratadas para execução de serviços de manejo rsu nas despesas com manejo de rsu
+IN005_RS - Auto-suficiência financeira da prefeitura com o manejo de rsu
+IN006_RS - Despesa per capita com manejo de rsu em relação à população urbana
+IN007_RS - Incidência de empregados próprios no total de empregados no manejo de rsu
+IN008_RS - Incidência de empregados de empresas contratadas no total de empregados no manejo de rsu
+IN010_RS - Incidência de empregados gerenciais e administrativos no total de empregados no manejo de rsu
+IN011_RS - Receita arrecadada per capita com taxas ou outras formas de cobrança pela prestação de serviços de manejo rsu
+IN014_RS - Taxa de cobertura do serviço de coleta domiciliar direta (porta-a-porta) da população urbana do município.
+IN015_RS - Taxa de cobertura regular do serviço de coleta de rdo em relação à população total do município
+IN016_RS - Taxa de cobertura regular do serviço de coleta de rdo em relação à população urbana
+IN017_RS - Taxa de terceirização do serviço de coleta de (rdo + rpu) em relação à quantidade coletada
+IN018_RS - Produtividade média dos empregados na coleta (coletadores + motoristas) na coleta (rdo + rpu) em relação à massa coletada
+IN019_RS - Taxa de empregados (coletadores + motoristas) na coleta (rdo + rpu) em relação à população urbana
+IN021_RS - Massa coletada (rdo + rpu) per capita em relação à população urbana
+IN022_RS - Massa (rdo) coletada per capita em relação à população atendida com serviço de coleta
+IN023_RS - Custo unitário médio do serviço de coleta (rdo + rpu)
+IN024_RS - Incidência do custo do serviço de coleta (rdo + rpu) no custo total do manejo de rsu
+IN025_RS - Incidência de (coletadores + motoristas) na quantidade total de empregados no manejo de rsu
+IN026_RS - Taxa de resíduos sólidos da construção civil (rcc) coletada pela prefeitura em relação à quantidade total coletada
+IN027_RS - Taxa da quantidade total coletada de resíduos públicos (rpu) em relação à quantidade total coletada de resíduos sólidos domésticos (rdo)
+IN028_RS - Massa de resíduos domiciliares e públicos (rdo+rpu) coletada per capita em relação à população total atendida pelo serviço de coleta
+IN029_RS - Massa de rcc per capita em relação à população urbana
+IN030_RS - Taxa de cobertura do serviço de coleta seletiva porta-a-porta em relação à população urbana do município.
+IN031_RS - Taxa de recuperação de materiais recicláveis (exceto matéria orgânica e rejeitos) em relação à quantidade total (rdo + rpu) coletada
+IN032_RS - Massa recuperada per capita de materiais recicláveis (exceto matéria orgânica e rejeitos) em relação à população urbana
+IN033_RS - Taxa de material recolhido pela coleta seletiva (exceto matéria orgânica) em relação à quantidade total coletada de resíduos sólidos domésticos
+IN034_RS - Incidência de papel e papelão no total de material recuperado
+IN035_RS - Incidência de plásticos no total de material recuperado
+IN036_RS - Massa de rss coletada per capita em relação à população urbana
+IN037_RS - Taxa de rss coletada em relação à quantidade total coletada
+IN038_RS - Incidência de metais no total de material recuperado
+IN039_RS - Incidência de vidros no total de material recuperado
+IN040_RS - Incidência de outros materiais (exceto papel, plástico, metais e vidros)  no total de material recuperado
+IN041_RS - Taxa de terceirização dos varredores
+IN042_RS - Taxa de terceirização da extensão varrida
+IN043_RS - Custo unitário médio do serviço de varrição (prefeitura + empresas contratadas)
+IN044_RS - Produtividade média dos varredores (prefeitura + empresas contratadas)
+IN045_RS - Taxa de varredores em relação à população urbana
+IN046_RS - Incidência do custo do serviço de varrição no custo total com manejo de rsu
+IN047_RS - Incidência de varredores no total de empregados no manejo de rsu
+IN048_RS - Extensão total anual varrida per capita
+IN051_RS - Taxa de capinadores em relação à população urbana
+IN052_RS - Incidência de capinadores no total empregados no manejo de rsu
+IN053_RS - Taxa de material recolhido pela coleta seletiva (exceto mat.  orgânica) em relação à quantidade total coletada de resíduos sól.  domésticos
+IN054_RS - Massa per capita de materiais recicláveis recolhidos via coleta seletiva

@@ -1,5 +1,9 @@
-import 'package:sisdis/i_sa.dart';
+// import 'package:sisdis/isar_test/test.dart';
 
-void main(List<String> arguments) {
-  print('ISA: ${iISA()}');
+import 'package:sisdis/ob_test/ob_test.dart';
+
+void main() {
+  // print('ISA: ${iISA()}');
+  print('Teste ObjectBox');
+  ob_test();
 }
