@@ -1,0 +1,1047 @@
+[
+  {
+    "munCode": "3100302",
+    "munName": "Abre Campo",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3100807",
+    "munName": "Aguanil",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3100906",
+    "munName": "Águas Formosas",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3101003",
+    "munName": "Águas Vermelhas",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3101201",
+    "munName": "Aiuruoca",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3101409",
+    "munName": "Albertina",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3101631",
+    "munName": "Alfredo Vasconcelos",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3102050",
+    "munName": "Alto Caparaó",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3102506",
+    "munName": "Amparo do Serra",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3102803",
+    "munName": "Andrelândia",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3104452",
+    "munName": "Aricanduva",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3104502",
+    "munName": "Arinos",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3104700",
+    "munName": "Ataléia",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3105202",
+    "munName": "Bandeira",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3105301",
+    "munName": "Bandeira do Sul",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3106606",
+    "munName": "Bertópolis",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3106804",
+    "munName": "Bias Fortes",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3107208",
+    "munName": "Bocaina de Minas",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3107604",
+    "munName": "Bom Jesus da Penha",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3107901",
+    "munName": "Bom Repouso",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3108255",
+    "munName": "Bonito de Minas",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3108305",
+    "munName": "Borda da Mata",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3108404",
+    "munName": "Botelhos",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3108503",
+    "munName": "Botumirim",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3109600",
+    "munName": "Cachoeira da Prata",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3109709",
+    "munName": "Cachoeira de Minas",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3110103",
+    "munName": "Caiana",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3110301",
+    "munName": "Caldas",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3110400",
+    "munName": "Camacho",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3110707",
+    "munName": "Cambuquira",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3110905",
+    "munName": "Campanha",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3111101",
+    "munName": "Campina Verde",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3111309",
+    "munName": "Campo do Meio",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3111408",
+    "munName": "Campo Florido",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3111705",
+    "munName": "Canaã",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3111903",
+    "munName": "Cana Verde",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3112109",
+    "munName": "Caparaó",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3112406",
+    "munName": "Capetinga",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3112505",
+    "munName": "Capim Branco",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3112901",
+    "munName": "Caputira",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3113107",
+    "munName": "Caranaíba",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3113602",
+    "munName": "Careaçu",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3113701",
+    "munName": "Carlos Chagas",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3113909",
+    "munName": "Carmo da Cachoeira",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3114105",
+    "munName": "Carmo de Minas",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3114550",
+    "munName": "Carneirinho",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3114600",
+    "munName": "Carrancas",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3114709",
+    "munName": "Carvalhópolis",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3114808",
+    "munName": "Carvalhos",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3115003",
+    "munName": "Cascalho Rico",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3115201",
+    "munName": "Conceição da Barra de Minas",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3115607",
+    "munName": "Cedro do Abaeté",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3116209",
+    "munName": "Chiador",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3116407",
+    "munName": "Claraval",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3116506",
+    "munName": "Claro dos Poções",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3117009",
+    "munName": "Comercinho",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3117207",
+    "munName": "Conceição das Pedras",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3117702",
+    "munName": "Conceição do Rio Verde",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3117836",
+    "munName": "Cônego Marinho",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3117900",
+    "munName": "Congonhal",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3119005",
+    "munName": "Cordislândia",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3119500",
+    "munName": "Coronel Murta",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3119807",
+    "munName": "Córrego Danta",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3119906",
+    "munName": "Córrego do Bom Jesus",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3120151",
+    "munName": "Crisólita",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3120201",
+    "munName": "Cristais",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3120508",
+    "munName": "Cristina",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3120607",
+    "munName": "Crucilândia",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3120805",
+    "munName": "Cruzília",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3120870",
+    "munName": "Curral de Dentro",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3121001",
+    "munName": "Datas",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3121100",
+    "munName": "Delfim Moreira",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3121209",
+    "munName": "Delfinópolis",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3121258",
+    "munName": "Delta",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3122801",
+    "munName": "Dom Viçoso",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3122900",
+    "munName": "Dona Eusébia",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3123502",
+    "munName": "Douradoquara",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3123908",
+    "munName": "Entre Rios de Minas",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3124500",
+    "munName": "Estiva",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3124708",
+    "munName": "Estrela do Indaiá",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3125408",
+    "munName": "Felício dos Santos",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3125507",
+    "munName": "São Gonçalo do Rio Preto",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3126505",
+    "munName": "Francisco Badaró",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3127354",
+    "munName": "Glaucilândia",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3127404",
+    "munName": "Gonçalves",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3127800",
+    "munName": "Grão Mogol",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3128105",
+    "munName": "Guapé",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3128303",
+    "munName": "Guaranésia",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3128501",
+    "munName": "Guarará",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3128600",
+    "munName": "Guarda-Mor",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3128907",
+    "munName": "Guimarânia",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3129004",
+    "munName": "Guiricema",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3129202",
+    "munName": "Heliodora",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3129400",
+    "munName": "Ibertioga",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3129657",
+    "munName": "Ibiracatu",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3129707",
+    "munName": "Ibiraci",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3129905",
+    "munName": "Ibitiúra de Minas",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3130051",
+    "munName": "Icaraí de Minas",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3130507",
+    "munName": "Ilicínea",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3130804",
+    "munName": "Ingaí",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3131406",
+    "munName": "Ipiaçu",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3132008",
+    "munName": "Itacambira",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3132107",
+    "munName": "Itacarambi",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3132909",
+    "munName": "Itamogi",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3133105",
+    "munName": "Itanhandu",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3133709",
+    "munName": "Itatiaiuçu",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3133758",
+    "munName": "Itaú de Minas",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3134301",
+    "munName": "Itumirim",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3134806",
+    "munName": "Jacuí",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3135308",
+    "munName": "Japaraíba",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3135605",
+    "munName": "Jequitaí",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3135704",
+    "munName": "Jequitibá",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3135902",
+    "munName": "Jesuânia",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3136009",
+    "munName": "Joaíma",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3136603",
+    "munName": "Nova União",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3138500",
+    "munName": "Liberdade",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3138658",
+    "munName": "Lontra",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3138674",
+    "munName": "Luisburgo",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3138682",
+    "munName": "Luislândia",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3138807",
+    "munName": "Luz",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3139102",
+    "munName": "Madre de Deus de Minas",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3139250",
+    "munName": "Mamonas",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3139300",
+    "munName": "Manga",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3139904",
+    "munName": "Maria da Fé",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3140407",
+    "munName": "Marmelópolis",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3140506",
+    "munName": "Martinho Campos",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3140555",
+    "munName": "Mata Verde",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3140852",
+    "munName": "Matias Cardoso",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3141306",
+    "munName": "Medeiros",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3142403",
+    "munName": "Moema",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3142700",
+    "munName": "Montalvânia",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3143500",
+    "munName": "Morada Nova de Minas",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3143807",
+    "munName": "Munhoz",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3144656",
+    "munName": "Ninheira",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3144672",
+    "munName": "Nova Belém",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3144706",
+    "munName": "Nova Era",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3145109",
+    "munName": "Nova Resende",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3145356",
+    "munName": "Novo Oriente de Minas",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3145372",
+    "munName": "Novorizonte",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3145406",
+    "munName": "Olaria",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3145455",
+    "munName": "Olhos-d Água",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3145455",
+    "munName": "Olhos-D ÁGUA",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3145505",
+    "munName": "Olímpio Noronha",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3145703",
+    "munName": "Oliveira Fortes",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3145877",
+    "munName": "Orizânia",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3146503",
+    "munName": "Pains",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3146701",
+    "munName": "Palma",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3147709",
+    "munName": "Passa Tempo",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3147808",
+    "munName": "Passa-Vinte",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3148301",
+    "munName": "Paula Cândido",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3149150",
+    "munName": "Pedras de Maria da Cruz",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3149606",
+    "munName": "Pequi",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3150307",
+    "munName": "Piedade do Rio Grande",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3150406",
+    "munName": "Piedade dos Gerais",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3150604",
+    "munName": "Piracema",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3151305",
+    "munName": "Piraúba",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3152131",
+    "munName": "Ponto Chique",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3152170",
+    "munName": "Ponto dos Volantes",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3152600",
+    "munName": "Pouso Alto",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3153004",
+    "munName": "Pratinha",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3153707",
+    "munName": "Quartel Geral",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3154200",
+    "munName": "Resende Costa",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3154507",
+    "munName": "Riacho dos Machados",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3154804",
+    "munName": "Rio Acima",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3155108",
+    "munName": "Rio do Prado",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3155900",
+    "munName": "Rio Preto",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3156106",
+    "munName": "Ritápolis",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3156205",
+    "munName": "Rochedo de Minas",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3157401",
+    "munName": "Santa Cruz do Escalvado",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3158102",
+    "munName": "Santa Maria do Salto",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3158300",
+    "munName": "Santana da Vargem",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3158607",
+    "munName": "Santana do Deserto",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3158706",
+    "munName": "Santana do Garambéu",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3159308",
+    "munName": "Santa Rita de Jacutinga",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3159704",
+    "munName": "Santa Rosa da Serra",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3160108",
+    "munName": "Santo Antônio do Grama",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3160306",
+    "munName": "Santo Antônio do Jacinto",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3160454",
+    "munName": "Santo Antônio do Retiro",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3160801",
+    "munName": "São Bento Abade",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3161809",
+    "munName": "São Gonçalo do Pará",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3161908",
+    "munName": "São Gonçalo do Rio Abaixo",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3162252",
+    "munName": "São João da Lagoa",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3162302",
+    "munName": "São João da Mata",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3162450",
+    "munName": "São João das Missões",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3162948",
+    "munName": "São José da Barra",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3163300",
+    "munName": "São José do Divino",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3163904",
+    "munName": "São Pedro da União",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3164308",
+    "munName": "São Roque de Minas",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3164407",
+    "munName": "São Sebastião da Bela Vista",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3164605",
+    "munName": "São Sebastião do Oeste",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3164902",
+    "munName": "São Sebastião do Rio Verde",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3165107",
+    "munName": "São Tomás de Aquino",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3165206",
+    "munName": "São Thomé das Letras",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3165552",
+    "munName": "Setubinha",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3165578",
+    "munName": "Senador Amaral",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3165602",
+    "munName": "Senador Cortes",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3165909",
+    "munName": "Senador Modestino Gonçalves",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3166402",
+    "munName": "Seritinga",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3167400",
+    "munName": "Silvianópolis",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3167806",
+    "munName": "Soledade de Minas",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3168200",
+    "munName": "Tapiraí",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3168507",
+    "munName": "Teixeiras",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3169000",
+    "munName": "Tocantins",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3170008",
+    "munName": "Ubaí",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3170479",
+    "munName": "Uruana de Minas",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3170602",
+    "munName": "Vargem Bonita",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3171501",
+    "munName": "Mathias Lobato",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3171808",
+    "munName": "Virgolândia",
+    "munUF": "MG"
+  },
+  {
+    "munCode": "3172202",
+    "munName": "Wenceslau Braz",
+    "munUF": "MG"
+  }
+]
