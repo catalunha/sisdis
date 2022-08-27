@@ -56,7 +56,8 @@ calcIndicadores() async {
   IndIAB indIAB = IndIAB(indStore);
   List<MunModel> list = indStore.munBox.getAll();
   for (var mun in list) {
-    for (var year in [2015, 2016, 2017, 2018, 2019, 2020]) {
+    // for (var year in [2015, 2016, 2017, 2018, 2019, 2020]) {
+    for (var year in [2020]) {
       double? iab = indIAB.calculate(mun.munCode, year);
       print('Mun.:${mun.munCode} Ano:$year. IAB: ${iab ?? "?"}');
     }

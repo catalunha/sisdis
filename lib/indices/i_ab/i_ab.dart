@@ -18,7 +18,7 @@ class IndIAB {
   }
 
   double indIAB() {
-    return indICA() + indIQA() + indISA();
+    return (indICA() + indIQA() + indISA()) / 3.0;
   }
 
   double indICA() {
