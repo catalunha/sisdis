@@ -51,7 +51,11 @@ class IndIABData {
         result = false;
       }
       if (snisModel.IN049_AE != null) {
-        IN049_AE = snisModel.IN049_AE!;
+        if (snisModel.IN049_AE! > 0) {
+          IN049_AE = snisModel.IN049_AE!;
+        } else {
+          throw Exception('IN049_AE precisa de média');
+        }
       } else {
         faltaDados.add('snisModel.IN049_AE');
         result = false;
